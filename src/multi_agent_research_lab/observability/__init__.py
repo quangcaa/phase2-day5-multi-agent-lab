@@ -1,1 +1,1 @@
-"""Observability helpers."""
+"""Observability: logging and tracing hooks."""
